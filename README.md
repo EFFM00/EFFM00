@@ -16,7 +16,20 @@
 </div>
 
 #### Frontend Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,styledcomponents,sass,apollo,bootstrap,redux,jquery)
+
+<div styles="display:flex;">
+  <img src="https://skillicons.dev/icons?i=html" alt="html" width="50" height="50" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="css" width="50" height="50" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="50" height="50" title="SASS"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="js" width="50" height="50" title="Javascript"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="50" height="50" title="React.js"/>
+  <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="50" height="50" title="Redux"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="ts" width="50" height="50" title="Typescript"/>
+  <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents" width="50" height="50" title="Styled Components"/>
+  <img src="https://skillicons.dev/icons?i=apollo" alt="apollo" width="50" height="50" title="Apollo"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="apollo" width="50" height="50" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=jquery" alt="apollo" width="50" height="50" title="Jquery"/>
+</div>
 
 #### Others
 ![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,idea,vscode,linux,bash,vim,wordpress,figma,selenium)
