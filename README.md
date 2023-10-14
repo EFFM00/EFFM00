@@ -2,6 +2,10 @@
 
 🤓 This is my projects profile and my tech skills:
 
+<div styles="display:flex;">
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="80" height="70" title="JAVA"/>
+</div>
+
 #### Backend Stack
 ![My Skills](https://skillicons.dev/icons?i=java,spring,maven,docker,nodejs,express,php,go,mysql)
 
