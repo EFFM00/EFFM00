@@ -2,8 +2,8 @@
 
 #### Backend Stack
 [![My Skills](https://skillicons.dev/icons?i=java,spring,docker,nodejs,express,php,go,mysql)](https://skillicons.dev)
+![My Skills]([https://skillicons.dev/icons?i=java,spring,docker,nodejs,express,php,go,mysql](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))
 
-https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 
 #### Frontend Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
