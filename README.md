@@ -1,9 +1,11 @@
-## Hi there, I'm Elena  👋
+## Hi there, I'm Elena 💻
+
+🤓 This is my projects profile and my tech skills:
 
 #### Backend Stack
 ![My Skills](https://skillicons.dev/icons?i=java,spring,maven,docker,nodejs,express,php,go,mysql)
 
-#### Frontend Skills
+#### Frontend Stack
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,styledcomponents,sass,apollo,bootstrap,redux,jquery)
 
 #### Others
