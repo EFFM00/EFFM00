@@ -46,5 +46,3 @@
   <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="50" height="50" title="Figma"/>
   <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="50" height="50" title="Selenium"/>
 </div>
-
-[![Status card](https://github-readme-stats.vercel.app/api?username=effm00&show_icons=true&theme=transparent)](https://github.com/effm00)
