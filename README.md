@@ -3,7 +3,7 @@
 🤓 This is my projects profile and my tech skills:
 
 <div styles="display:flex;">
-  <img src="https://skillicons.dev/icons?i=java" alt="java" width="80" height="70" title="JAVA"/>
+  <img src="https://skillicons.dev/icons?i=java" alt="java" width="70" height="70" title="JAVA"/>
 </div>
 
 #### Backend Stack
