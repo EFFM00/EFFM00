@@ -1,7 +1,7 @@
 ## Hi there, I'm Elena  👋
 
 #### Backend Stack
-[![My Skills](https://skillicons.dev/icons?i=java,spring,docker,nodejs,express,php,go,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 ![My Skills]([https://skillicons.dev/icons?i=java,spring,docker,nodejs,express,php,go,mysql](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white))
 
 
