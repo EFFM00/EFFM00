@@ -32,4 +32,16 @@
 </div>
 
 #### Others
-![My Skills](https://skillicons.dev/icons?i=git,gitlab,github,idea,vscode,linux,bash,vim,wordpress,figma,selenium)
+<div styles="display:flex;">
+  <img src="https://skillicons.dev/icons?i=git" alt="git" width="50" height="50" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" alt="gitlab" width="50" height="50" title="GitLab"/>
+  <img src="https://skillicons.dev/icons?i=github" alt="github" width="50" height="50" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=idea" alt="idea" width="50" height="50" title="IDEA"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="50" height="50" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="50" height="50" title="Linux"/>
+  <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="50" height="50" title="Bash"/>
+  <img src="https://skillicons.dev/icons?i=vim" alt="vim" width="50" height="50" title="Vim"/>
+  <img src="https://skillicons.dev/icons?i=wordpress" alt="wordpress" width="50" height="50" title="WordPress"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="50" height="50" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="50" height="50" title="Selenium"/>
+</div>
