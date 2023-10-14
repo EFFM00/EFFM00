@@ -29,6 +29,7 @@
   <img src="https://skillicons.dev/icons?i=apollo" alt="apollo" width="50" height="50" title="Apollo"/>
   <img src="https://skillicons.dev/icons?i=bootstrap" alt="apollo" width="50" height="50" title="Bootstrap"/>
   <img src="https://skillicons.dev/icons?i=jquery" alt="apollo" width="50" height="50" title="Jquery"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="50" height="50" title="Next.js"/>
 </div>
 
 #### Others
